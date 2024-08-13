@@ -2,8 +2,8 @@ export const Header = () => {
     return (
         <>
         <header>
-            <h1>Today is Monday</h1>
-            <h2>This is a Header component</h2>
+            <h1>Today is going to be a great day!</h1>
+         
         </header>
         </>
     )
